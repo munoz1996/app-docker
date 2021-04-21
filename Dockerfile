@@ -4,7 +4,7 @@ LABEL   email=smunoz@dacaballero
 LABEL   net.dcaballero.description="Image with web app developed in angular"
 LABEL   net.dcaballero.vendor=dcaballero.net
 LABEL   net.dcaballero.copyright=dcaballero.net
-LABEL   net.dcaballero.version=1.0.0
+LABEL   net.dcaballero.version=1.0.1
 LABEL   net.dcaballero.project=acme
 
 RUN apk update \
